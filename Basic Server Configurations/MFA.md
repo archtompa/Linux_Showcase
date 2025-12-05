@@ -24,7 +24,7 @@ skriv in "google-authenticator" i terminalen
 	→ svara med y och skanna QR-kod för att lägga in servern på den andra enheten
 		→ fortsätt genom prompten, förslagsvis y för alla inställningar
 
-! Om konfiguration redan görs via SSH, se till att den primära inloggningen fortfarande är aktiv för att förhindra utelåsning när MFA används för första gången
+! Om konfiguration redan görs via SSH, säkerställ att den primära inloggningen fortfarande är aktiv för att förhindra utelåsning när MFA används för första gången
 
 # Steg 3: Verifiering
 
