@@ -1,8 +1,13 @@
 Hej och v'a'lkommen till min README sida!👋
 
-Syftet med denna Githuben är att visa upp mina dokumentationer och projekt för Linux server, mestadels för Debian 12/13.
-I nuläget kommer allt publiceras i repot "Linux_Showcase" på svenska. V'a'lkommen att ta för dig!
+Syftet med Githuben är att visa upp mina dokumentationer och projekt för Debian-Linux server och Proxmox VE (Virtual Environment).
+Dokumenationer och övriga anteckningar publiceras på svenska i repot "Linux_Showcase". V'a'lkommen att ta för dig!
 
+Pågående personlig fördjupning:
+- Infrastructure as Code
+- Kubernetes
+- Ansible
+- PowerShell
 
 <!--
 **archtompa/archtompa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
