@@ -3,7 +3,7 @@ Hej och v'a'lkommen till min README sida!👋
 Syftet med Githuben är att visa upp mina dokumentationer och projekt för Debian-Linux server och Proxmox VE (Virtual Environment).
 Dokumenationer och övriga anteckningar publiceras på svenska i repot "Linux_Showcase". V'a'lkommen att ta för dig!
 
-Pågående personlig fördjupning:
+Ytterligare personliga intresseområden:
 - Infrastructure as Code
 - Kubernetes
 - Ansible
